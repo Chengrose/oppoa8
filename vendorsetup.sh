@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_LUNCH_CHOICES omni_OP4AED-user
-COMMON_LUNCH_CHOICES omni_OP4AED-userdebug
-COMMON_LUNCH_CHOICES omni_OP4AED-eng
+add_lunch_combo omni_OP4AED-user
+add_lunch_combo omni_OP4AED-userdebug
+add_lunch_combo omni_OP4AED-eng
